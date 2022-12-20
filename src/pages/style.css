@@ -1,0 +1,40 @@
+.mainCont {
+  position: relative;
+  margin-top: 200px;
+  background-color: #fff;
+}
+.subCont {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: 100px;
+}
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+body {
+}
+.subCont p {
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+.subCont a {
+  text-decoration: none;
+  background-color: #3f0071;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 30px;
+  border-radius: 28px;
+}
+.anime img {
+  width: 300px;
+}
